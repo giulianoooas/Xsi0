@@ -6,3 +6,4 @@
     b) algoritmul MinMax si AlphaBeta pentru a face inteligenta artificiala
 
 ```
+Pentru a citi regulile jocului: https://en.wikipedia.org/wiki/Tic-tac-toe
